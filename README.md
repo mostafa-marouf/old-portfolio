@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a portfolio website showcasing the work of [Your Name].
+This is a portfolio website showcasing the work of me.
 
 ## Table of Contents
 
@@ -30,6 +30,37 @@ This portfolio website serves as a showcase for my work as a front-end web devel
 - CSS3
 - JavaScript
 - Vite (for development and building)
+
+
+Navigate to the project directory:
+bash
+Copy code
+cd portfolio
+Install dependencies:
+bash
+Copy code
+npm install
+Usage and License
+To run the development server:
+
+bash
+Copy code
+npm run dev
+To build the project for production:
+
+bash
+Copy code
+npm run build
+To preview the production build:
+
+bash
+Copy code
+npm run preview
+License
+MIT License
+
+typescript
+Copy code
 
 ## Installation
 
